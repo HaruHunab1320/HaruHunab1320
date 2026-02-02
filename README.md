@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">HaruHunab1320.sys</h1>
 
-<!--
-**HaruHunab1320/HaruHunab1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ```bash
+  $ ./boot
+  [ok] identity: Jakob Grant
+  [ok] mode: builder / researcher / systems hacker
+  [ok] mission: make uncertainty first-class in software
 
-Here are some ideas to get you started:
+  ┌───────────────────────────────────────────────────────────────┐
+  │                    SIGNAL PANEL                              │
+  ├───────────────────────────────────────────────────────────────┤
+  │ Prism      : uncertainty-first language                      │
+  │ Parallax   : multi-agent orchestration runtime              │
+  │ Raven Docs : human-in-the-loop AI workspace                 │
+  │ Lumina     : confidence-native model architecture (R&D)     │
+  └───────────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  NOW:
+  - validating calibrated confidence behavior in Lumina
+  - wiring Prism -> Parallax -> Raven Docs end-to-end
+  - building autonomous workflows with human approvals
+
+  NEXT:
+  - publish confidence benchmark suite
+  - ship swarm demo inside Raven Docs
+  - release tighter Prism docs/examples
+
+  ## Repos Worth Opening
+
+  - Prism-TS — language + runtime for uncertainty-aware computation
+  - parallax — orchestration patterns for agent swarms
+  - raven-docs — docs + project system for human/AI collaboration
+
+  ## Principles
+
+  disagreement is signal • confidence beats guesswork • human override is a feature
+
+  ## Connect
+
+  - X/Twitter: https://x.com/ParallaxPilgrim
+  - LinkedIn: https://www.linkedin.com/in/jakob-grant-99834a1b0/
+  - Email: haruhunab1320@gmail.com
+  ```
