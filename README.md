@@ -3,7 +3,7 @@
   ```bash
   $ ./boot
   [ok] identity: Jakob Grant
-  [ok] mode: builder / researcher / systems hacker
+  [ok] mode: builder / researcher / systems architect
   [ok] mission: make uncertainty first-class in software
   ```
 
