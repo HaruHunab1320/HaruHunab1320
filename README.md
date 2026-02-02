@@ -7,12 +7,12 @@
   [ok] mission: make uncertainty first-class in software
 
   ┌───────────────────────────────────────────────────────────────┐
-  │                    SIGNAL PANEL                              │
+  │                    SIGNAL PANEL                               │
   ├───────────────────────────────────────────────────────────────┤
-  │ Prism      : uncertainty-first language                      │
-  │ Parallax   : multi-agent orchestration runtime              │
-  │ Raven Docs : human-in-the-loop AI workspace                 │
-  │ Lumina     : confidence-native model architecture (R&D)     │
+  │ Prism      : uncertainty-first language                       │
+  │ Parallax   : multi-agent orchestration runtime                │
+  │ Raven Docs : human-in-the-loop AI workspace                   │
+  │ Lumina     : confidence-native model architecture (R&D)       │
   └───────────────────────────────────────────────────────────────┘
 
   NOW:
