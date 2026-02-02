@@ -5,7 +5,9 @@
   [ok] identity: Jakob Grant
   [ok] mode: builder / researcher / systems hacker
   [ok] mission: make uncertainty first-class in software
+  ```
 
+  ```txt
   ┌───────────────────────────────────────────────────────────────┐
   │                    SIGNAL PANEL                               │
   ├───────────────────────────────────────────────────────────────┤
@@ -14,30 +16,29 @@
   │ Raven Docs : human-in-the-loop AI workspace                   │
   │ Lumina     : confidence-native model architecture (R&D)       │
   └───────────────────────────────────────────────────────────────┘
+  ```
 
-  NOW:
+  ## NOW
   - validating calibrated confidence behavior in Lumina
   - wiring Prism -> Parallax -> Raven Docs end-to-end
   - building autonomous workflows with human approvals
 
-  NEXT:
+  ## NEXT
   - publish confidence benchmark suite
   - ship swarm demo inside Raven Docs
   - release tighter Prism docs/examples
 
   ## Repos Worth Opening
-
-  - Prism-TS — language + runtime for uncertainty-aware computation
-  - parallax — orchestration patterns for agent swarms
-  - raven-docs — docs + project system for human/AI collaboration
+  - **Prism-TS** — language + runtime for uncertainty-aware computation
+  - **parallax** — orchestration patterns for agent swarms
+  - **raven-docs** — docs + project system for human/AI collaboration
 
   ## Principles
-
-  disagreement is signal • confidence beats guesswork • human override is a feature
+  `disagreement is signal` • `confidence beats guesswork` • `human override is a feature`
 
   ## Connect
-
-  - X/Twitter: https://x.com/ParallaxPilgrim
-  - LinkedIn: https://www.linkedin.com/in/jakob-grant-99834a1b0/
+  - X/Twitter: [@ParallaxPilgrim](https://x.com/ParallaxPilgrim)
+  - LinkedIn: [jakob-grant](https://www.linkedin.com/in/jakob-grant-99834a1b0/)
   - Email: haruhunab1320@gmail.com
-  ```
+
+  ☕ If my open-source work helps you, you can support it here: [buymeacoffee.com/parallaxpilgrim](https://buymeacoffee.com/parallaxpilgrim)
