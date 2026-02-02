@@ -44,4 +44,4 @@
   - LinkedIn: [jakob-grant](https://www.linkedin.com/in/jakob-grant-99834a1b0/)
   - Email: haruhunab1320@gmail.com
 
-  ☕ If my open-source work helps you, you can support it here: [buymeacoffee.com/parallaxpilgrim](https://buymeacoffee.com/parallaxpilgrim)
+  `$ tip --coffee  →` [buymeacoffee.com/parallaxpilgrim](https://buymeacoffee.com/parallaxpilgrim)
