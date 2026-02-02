@@ -29,9 +29,9 @@
   - release tighter Prism docs/examples
 
   ## Repos Worth Opening
-  - **Prism-TS** — language + runtime for uncertainty-aware computation
-  - **parallax** — orchestration patterns for agent swarms
-  - **raven-docs** — docs + project system for human/AI collaboration
+  - **[Prism-TS](https://github.com/HaruHunab1320/Prism-TS)** — language + runtime for uncertainty-aware computation
+  - **[parallax](https://github.com/HaruHunab1320/parallax)** — orchestration patterns for agent swarms
+  - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
 
   ## Principles
   `disagreement is signal` • `confidence beats guesswork` • `human override is a feature`
