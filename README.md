@@ -33,6 +33,9 @@
   - **[parallax](https://github.com/HaruHunab1320/parallax)** — orchestration patterns for agent swarms
   - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
 
+  ## Legacy, Still Relevant
+  - **[Magick ML](https://github.com/Oneirocom/Magick)** — started as *Thoth* in the GPT‑2 era (pre‑ChatGPT), evolved into a full visual agent builder + runtime platform over ~3 years.
+
   ## Principles
   `disagreement is signal` • `confidence beats guesswork` • `human override is a feature`
 
