@@ -36,12 +36,26 @@
   ## Legacy, Still Relevant
   - **[Magick ML](https://github.com/Oneirocom/Magick)** — started as *Thoth* in the GPT‑2 era (pre‑ChatGPT), evolved into a full visual agent builder + runtime platform over ~3 years.
 
+  ## Project89 (Media + Narrative Systems)
+  Project89 blends ARG storytelling, real‑world participation, and generative media. I built the narrative + image pipelines that powered the public outputs and media experiments.
+
+  Links:
+  - Site: [Project89.org](https://www.project89.org)
+  - X/Twitter: [@project_89](https://x.com/project_89)
+
+  Featured Episodes:
+  - **Greening the Loom** — community‑driven anime episode powered by our ARG (sigils created in the real world and submitted by participants).
+    [Project89 Awakening](https://www.youtube.com/watch?v=mvMcmppWArk&list=PLKnDntrPEcgzpO7YfdTEjBAzyqU2yvBHX)
+
+  - **Web3 partner showcase** — story-driven episode featuring collaborators and a token migration cohort (migrate.fun → bonkfun) with weekly spaces + ecosystem outreach.
+    [Project89 Alliance](https://youtu.be/F6NwsVtxTxk?si=wLnQZEkDNGvbpsZt)
+
   ## Principles
   `disagreement is signal` • `confidence beats guesswork` • `human override is a feature`
 
   ## Connect
   - X/Twitter: [@ParallaxPilgrim](https://x.com/ParallaxPilgrim)
-  - LinkedIn: [jakob-grant](https://www.linkedin.com/in/jakob-grant-99834a1b0/)
+  - LinkedIn: [jakob-grant](https://www.linkedin.com/in/jakob-grant-99834a1b0)
   - Email: haruhunab1320@gmail.com
 
   `$ tip --coffee  →` [buymeacoffee.com/parallaxpilgrim](https://buymeacoffee.com/parallaxpilgrim)
