@@ -32,6 +32,7 @@
   - **[Prism-TS](https://github.com/HaruHunab1320/Prism-TS)** — language + runtime for uncertainty-aware computation
   - **[parallax](https://github.com/HaruHunab1320/parallax)** — orchestration patterns for agent swarms
   - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
+  - **[pty-manager](https://github.com/HaruHunab1320/parallax/packages/pty-manager)** — PTY session manager with lifecycle management, pluggable adapters, and blocking prompt detection.
 
   ## Legacy, Still Relevant
   - **[Magick ML](https://github.com/Oneirocom/Magick)** — started as *Thoth* in the GPT‑2 era (pre‑ChatGPT), evolved into a full visual agent builder + runtime platform over ~2 years.
