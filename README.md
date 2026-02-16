@@ -34,7 +34,7 @@
   - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
   - **[pty-manager](https://github.com/HaruHunab1320/parallax/tree/main/packages/pty-manager)** — PTY session manager with lifecycle management, pluggable adapters, and blocking prompt detection.
   - **[parallax-agent-runtime](https://github.com/HaruHunab1320/parallax/tree/main/packages/parallax-agent-runtime)** — MCP server for AI agent orchestration. Enables AI assistants like Claude to spawn, manage, and coordinate multiple AI agents or CLI processes.
-
+  - **[git-workspace-service](https://github.com/HaruHunab1320/parallax/tree/main/packages/git-workspace-service)** — Git workspace provisioning and credential management service. Handles cloning repositories, managing branches, credentials, and PR creation.
 
   ## Legacy, Still Relevant
   - **[Magick ML](https://github.com/Oneirocom/Magick)** — started as *Thoth* in the GPT‑2 era (pre‑ChatGPT), evolved into a full visual agent builder + runtime platform over ~2 years.
