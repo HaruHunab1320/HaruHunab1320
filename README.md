@@ -32,8 +32,8 @@
   - **[Prism-TS](https://github.com/HaruHunab1320/Prism-TS)** — language + runtime for uncertainty-aware computation
   - **[parallax](https://github.com/HaruHunab1320/parallax)** — orchestration patterns for agent swarms
   - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
-  - **[pty-manager](https://github.com/HaruHunab1320/parallax/packages/pty-manager)** — PTY session manager with lifecycle management, pluggable adapters, and blocking prompt detection.
-  - **[parallax-agent-runtime](https://github.com/HaruHunab1320/parallax/packages/parallax-agent-runtime)** — MCP server for AI agent orchestration. Enables AI assistants like Claude to spawn, manage, and coordinate multiple AI agents or CLI processes.
+  - **[pty-manager](https://github.com/HaruHunab1320/parallax/tree/main/packages/pty-manager)** — PTY session manager with lifecycle management, pluggable adapters, and blocking prompt detection.
+  - **[parallax-agent-runtime](https://github.com/HaruHunab1320/parallax/tree/main/packages/parallax-agent-runtime)** — MCP server for AI agent orchestration. Enables AI assistants like Claude to spawn, manage, and coordinate multiple AI agents or CLI processes.
 
 
   ## Legacy, Still Relevant
