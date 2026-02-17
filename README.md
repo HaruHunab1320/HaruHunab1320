@@ -33,6 +33,7 @@
   - **[parallax](https://github.com/HaruHunab1320/parallax)** — orchestration patterns for agent swarms
   - **[raven-docs](https://github.com/HaruHunab1320/raven-docs)** — docs + project system for human/AI collaboration
   - **[pty-manager](https://github.com/HaruHunab1320/parallax/tree/main/packages/pty-manager)** — PTY session manager with lifecycle management, pluggable adapters, and blocking prompt detection.
+  - **[coding-agent-adapters](https://github.com/HaruHunab1320/parallax/tree/main/packages/coding-agent-adapters)** — CLI adapters for AI coding agents. Works with pty-manager to spawn and manage coding agents like Claude Code, Gemini CLI, OpenAI Codex, and Aider.
   - **[parallax-agent-runtime](https://github.com/HaruHunab1320/parallax/tree/main/packages/parallax-agent-runtime)** — MCP server for AI agent orchestration. Enables AI assistants like Claude to spawn, manage, and coordinate multiple AI agents or CLI processes.
   - **[git-workspace-service](https://github.com/HaruHunab1320/parallax/tree/main/packages/git-workspace-service)** — Git workspace provisioning and credential management service. Handles cloning repositories, managing branches, credentials, and PR creation.
 
