@@ -19,11 +19,11 @@ What matters is whether the thing gets made.
 ┌──────────────────────────────────────────────────────────────┐
 │                    ACTIVE EXPERIMENTS                        │
 ├──────────────────────────────────────────────────────────────┤
-│  EXP-███  :  ██████████████████████  [ RUNNING ]            │
-│  EXP-███  :  ████████ ████████████  [ RUNNING ]             │
-│  EXP-███  :  ████████████ ████████  [ DARK   ]              │
+│  EXP-███  :  ██████████████████████  [ RUNNING ]             │
+│  EXP-███  :  ████████ ████████████  [ RUNNING ]              │
+│  EXP-███  :  ████████████ ████████  [ DARK   ]               │
 │                                                              │
-│  details not available at this clearance level              │
+│  details not available at this clearance level               │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -54,7 +54,7 @@ Systems that shipped and left a mark.
 │                                                              │
 │  Project89          ONGOING     ARG + generative media.      │
 │                                 narrative + image pipelines. │
-│                                 participants never knew       │
+│                                 participants never knew      │
 │                                 where fiction ended.         │
 │                                 → project89.org              │
 │                                 → @project_89                │
