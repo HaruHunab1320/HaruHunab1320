@@ -10,8 +10,7 @@ $ ./boot
 
 ---
 
-The domain doesn't matter. The stack doesn't matter.  
-What matters is whether the thing gets made.
+Figure it out. Ship it. Repeat.
 
 ---
 
@@ -31,7 +30,7 @@ The interesting work doesn't introduce itself.
 
 ---
 
-## Prior Art
+## Deployed Systems 
 
 Systems that shipped and left a mark.
 
