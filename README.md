@@ -47,6 +47,10 @@ Systems that shipped and left a mark.
 ┌──────────────────────────────────────────────────────────────┐
 │  OPERATION          STATUS      NOTES                        │
 ├──────────────────────────────────────────────────────────────┤
+│  AIDungeon          COMPLETE   first engineering role.       |
+|                                AI-native before AI was       |
+|                                the whole conversation.       │
+│                                                              │
 │  Magick ML / Thoth  COMPLETE    visual agent builder.        │
 │                                 started pre-ChatGPT.         │
 │                                 2 years. full runtime.       │
