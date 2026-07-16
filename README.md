@@ -94,6 +94,7 @@ Story-driven episode featuring Web3 collaborators and a token migration cohort. 
 | [raven-docs](https://github.com/HaruHunab1320/raven-docs) | human/AI collaboration layer |
 | [hauntjs](https://github.com/HaruHunab1320/hauntjs) | inhabited, persistent AI environments |
 | [embersjs](https://github.com/HaruHunab1320/embersjs) | the layer that makes an agent *want* something |
+| [winkify](https://github.com/HaruHunab1320/winkify) | bundled code decorator & prompt injection research |
 | [veritas](https://github.com/HaruHunab1320/veritas) | narrative tracking across digital platforms |
 
 ---
