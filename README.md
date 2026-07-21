@@ -82,20 +82,21 @@ Story-driven episode featuring Web3 collaborators and a token migration cohort. 
 
 | repo | classification |
 |---|---|
-| [Prism-TS](https://github.com/HaruHunab1320/Prism-TS) | uncertainty-aware computation |
+| [veritas](https://github.com/project-89/veritas) | narrative tracking across digital platforms |
 | [parallax](https://github.com/HaruHunab1320/parallax) | agent swarm orchestration |
+| [mintcn](https://github.com/HaruHunab1320/mintcn) | design-time editor for shadcn/ui codebases |
 | [parallax-agent-runtime](https://github.com/HaruHunab1320/parallax-agent-runtime) | MCP server — spawn, manage, coordinate agents |
 | [coding-agent-adapters](https://github.com/HaruHunab1320/coding-agent-adapters) | CLI adapters for Claude Code, Gemini, Codex, Aider |
 | [pty-manager](https://github.com/HaruHunab1320/pty-manager) | PTY session lifecycle + blocking prompt detection |
 | [tmux-manager](https://github.com/HaruHunab1320/tmux-manager) | drop-in tmux alternative to pty-manager, no native addons |
 | [git-workspace-service](https://github.com/HaruHunab1320/git-workspace-service) | repo provisioning, branches, credentials, PR creation |
 | [decision-pathfinder](https://github.com/HaruHunab1320/decision-pathfinder) | typed decision trees for LLM workflows — learns to skip the LLM |
+| [Prism-TS](https://github.com/HaruHunab1320/Prism-TS) | uncertainty-aware programming language |
+| [winkify](https://github.com/HaruHunab1320/winkify) | bundled code decorator & prompt injection research |
 | [lumina_micro](https://github.com/HaruHunab1320/lumina_micro) | verifier-gated JS refactor runtime — R&D, public eval matrix |
 | [raven-docs](https://github.com/HaruHunab1320/raven-docs) | human/AI collaboration layer |
 | [hauntjs](https://github.com/HaruHunab1320/hauntjs) | inhabited, persistent AI environments |
 | [embersjs](https://github.com/HaruHunab1320/embersjs) | the layer that makes an agent *want* something |
-| [winkify](https://github.com/HaruHunab1320/winkify) | bundled code decorator & prompt injection research |
-| [veritas](https://github.com/HaruHunab1320/veritas) | narrative tracking across digital platforms |
 
 ---
 
