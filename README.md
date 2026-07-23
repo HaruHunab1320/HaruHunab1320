@@ -85,6 +85,7 @@ Story-driven episode featuring Web3 collaborators and a token migration cohort. 
 | [veritas](https://github.com/project-89/veritas) | narrative tracking across digital platforms |
 | [parallax](https://github.com/HaruHunab1320/parallax) | agent swarm orchestration |
 | [mintcn](https://github.com/HaruHunab1320/mintcn) | design-time editor for shadcn/ui codebases |
+| [mythopia](https://github.com/HaruHunab1320/mythopia) | narrative canonization and media generation |
 | [parallax-agent-runtime](https://github.com/HaruHunab1320/parallax-agent-runtime) | MCP server — spawn, manage, coordinate agents |
 | [coding-agent-adapters](https://github.com/HaruHunab1320/coding-agent-adapters) | CLI adapters for Claude Code, Gemini, Codex, Aider |
 | [pty-manager](https://github.com/HaruHunab1320/pty-manager) | PTY session lifecycle + blocking prompt detection |
